@@ -1,0 +1,8 @@
+O:\Ongoing Projects\IntegraLib\bin\Release\IntegraLib.dll
+O:\Ongoing Projects\IntegraLib\bin\Release\IntegraLib.pdb
+O:\Ongoing Projects\IntegraLib\bin\Release\IntegraLib.xml
+O:\Ongoing Projects\IntegraLib\obj\Release\Alabbar.IntegraLib.Resources.resources
+O:\Ongoing Projects\IntegraLib\obj\Release\IntegraLib.vbproj.GenerateResource.Cache
+O:\Ongoing Projects\IntegraLib\obj\Release\IntegraLib.dll
+O:\Ongoing Projects\IntegraLib\obj\Release\IntegraLib.xml
+O:\Ongoing Projects\IntegraLib\obj\Release\IntegraLib.pdb
